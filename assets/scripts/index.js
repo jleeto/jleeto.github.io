@@ -24,7 +24,3 @@ jQuery.fn.loadRepositores = function(username) {
     });
   }
 };
-
-$(function() {
-  $("#github-projects").loadRepositories("jleeto");
-});
