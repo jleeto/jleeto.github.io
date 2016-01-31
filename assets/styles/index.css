@@ -6,6 +6,7 @@ body {
 }
 
 #module_Header {
+  margin: auto;
   -webkit-box-align: center;
   -moz-box-align: center;
   -o-box-align: center;
