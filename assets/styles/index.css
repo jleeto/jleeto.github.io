@@ -6,8 +6,6 @@ body {
 }
 
 #module_Header {
-  position: fixed;
-  top: 50%;
   -webkit-box-align: center;
   -moz-box-align: center;
   -o-box-align: center;
