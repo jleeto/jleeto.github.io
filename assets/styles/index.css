@@ -1,11 +1,14 @@
 body {
   background: #3B3244;
   font-family: 'Arimo';
+  margin: 0;
+  padding: 0;
 }
 
 #module_Header {
-  margin-top: 80px;
-  text-align: center;
+  margin: auto;
+  left: 0px;
+  right: 0px;
 }
 
 #module_Header .name > p {
