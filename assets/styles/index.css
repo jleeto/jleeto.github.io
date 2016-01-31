@@ -4,18 +4,20 @@ body {
 }
 
 #module_Header {
+  margin-top: 80px;
   text-align: center;
 }
 
 #module_Header .name > p {
   color: #fff;
-  font-size: 18px;
+  font-size: 28px;
   font-family: 'Arimo';
 }
 
 #module_Header .description > p {
   color: #fff;
-  font-size: 16px;
+  font-size: 24px;
+  text-transform:lowercase;
   font-family: 'Arimo';
-  opacity: .7;
+  opacity: .5;
 }
