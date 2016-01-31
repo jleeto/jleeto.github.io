@@ -1,5 +1,5 @@
 body {
-  background: repeating-linear-gradient(45deg, #fff 10px, #3B334A 5px);
+  background: repeating-linear-gradient(-225, #fff, #3B334A);
 }
 
 #module_Header {
