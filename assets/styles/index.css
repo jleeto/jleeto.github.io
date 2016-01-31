@@ -1,14 +1,12 @@
 body {
   background: #3B3244;
   font-family: 'Arimo';
-  margin: 0;
-  padding: 0;
 }
 
 #module_Header {
   position: fixed;
   top: 50%;
-  margin: auto;
+  left: 50%;
 }
 
 #module_Header .name > p {
