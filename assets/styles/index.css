@@ -4,10 +4,10 @@ body {
 }
 
 #module_Header {
-  margin: auto;
+  text-align: center;
 }
 
-#module_Header .main > p {
+#module_Header .name > p {
   color: #fff;
   font-size: 18px;
   font-family: 'Arimo';
