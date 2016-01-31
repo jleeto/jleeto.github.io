@@ -1,17 +1,5 @@
 body {
-  font-family: 'Arimo';
-  background-color: #fff;
-}
-
-body:before {
-  content: '';
-  position: absolute;
-  background-color: #3B3244; /* fallback */
-  background-color: #3B3244;
-  top: 0;
-  -webkit-transform: rotate(45deg);
-  -moz-transform: rotate(45deg);
-  transform: rotate(45deg);
+  background: linear-gradient(to right bottom, #2f3441 50%, #212531 50%);
 }
 
 #module_Header {
