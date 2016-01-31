@@ -1,6 +1,5 @@
 body {
-  background: linear-gradient(left, #fff, #3B334A);
-  transform: rotate(45deg);
+  background: linear-gradient(#fff, #3B334A);
 }
 
 #module_Header {
