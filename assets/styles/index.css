@@ -3,5 +3,42 @@ body {
 }
 
 .project-repo {
-  background: #fff;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    height: 48px;
+    margin: 10px 0;
+}
+.project-repo > .title {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    -o-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+.project-repo > .title > .name {
+    display: inline-block;
+    font-size: 1.3em;
+    margin-left: 15px;
+    line-height: .9;
+}
+.project-repo > .title > .desc {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 100%;
+    overflow: hidden;
+    padding: 3px;
+    font-size: 1.3em;
+    margin-left: 15px;
+    line-height: .9;
+    opacity: .5;
 }
