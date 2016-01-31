@@ -7,13 +7,13 @@ body {
   margin: auto;
 }
 
-#module_Header > .main > p {
+#module_Header .main > p {
   color: #fff;
   font-size: 18px;
   font-family: 'Arimo';
 }
 
-#module_Header > .description > p {
+#module_Header .description > p {
   color: #fff;
   font-size: 16px;
   font-family: 'Arimo';
