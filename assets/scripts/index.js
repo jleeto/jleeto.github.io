@@ -1,3 +1,5 @@
+'use strict'
+
 let night, hour, time = new Date();
 hour = time.getHours();
 night = hour > 19 || hour < 4;
