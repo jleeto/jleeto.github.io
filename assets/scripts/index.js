@@ -1,6 +1,5 @@
-var date = newDate();
-hour = date.getHours();
-// check for time
-if (hour > 19 || < 4) {
-  night = true;
-}
+let night, hour, time = new Date();
+hour = time.getHours();
+night = hour > 19 || hour < 4;
+
+document.body.classList.add(night ? 'night' : 'day');
