@@ -6,9 +6,17 @@ html {
   width: 100%;
 }
 
+a {
+  font-family: 'Sorts Mill Goudy';
+}
+
+a:hover {
+  background: yellow;
+}
+
 h1 {
   margin: auto;
-  font-family: '';
+  font-family: 'Tinos';
 }
 
 ul {
