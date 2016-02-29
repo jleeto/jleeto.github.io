@@ -15,14 +15,10 @@ a:hover {
 }
 
 h1 {
-  margin: auto;
   font-family: 'Tinos';
-}
-
-ul {
-  margin: auto;
 }
 
 li {
   list-style: none;
+  display: inline-block;
 }
