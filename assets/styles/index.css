@@ -1,3 +1,33 @@
-body {
-  background: #051320;
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+#feed {
+    height: 200px;
+    margin-top: 15px;
+    padding: 0 15px 0 15px;
+    overflow: scroll;
+    text-align: left;
+}
+#feed .gha-gravatar,
+#feed .gha-gravatar-commit,
+#feed .gha-user-info,
+#feed .gha-footer,
+#feed .gha-gravatar-user {
+    display: none;
+}
+#feed .gha-time {
+    color: #aaa;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 10px;
+}
+#feed .gha-commits {
+    font-size: 10px;
+}
+#feed .gha-commits li {
+    width: 100%;
 }
