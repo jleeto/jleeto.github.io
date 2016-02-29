@@ -5,29 +5,16 @@ html {
   height: 100%;
   width: 100%;
 }
-#feed {
-    height: 200px;
-    margin-top: 15px;
-    padding: 0 15px 0 15px;
-    overflow: scroll;
-    text-align: left;
+
+h1 {
+  margin: auto;
+  font-family: '';
 }
-#feed .gha-gravatar,
-#feed .gha-gravatar-commit,
-#feed .gha-user-info,
-#feed .gha-footer,
-#feed .gha-gravatar-user {
-    display: none;
+
+ul {
+  margin: auto;
 }
-#feed .gha-time {
-    color: #aaa;
-    text-align: center;
-    margin-top: 20px;
-    font-size: 10px;
-}
-#feed .gha-commits {
-    font-size: 10px;
-}
-#feed .gha-commits li {
-    width: 100%;
+
+li {
+  list-style: none;
 }
