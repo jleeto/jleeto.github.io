@@ -2,7 +2,7 @@
 
 body {
     background-color: #fff;
-    font: 13px Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+    font: 13px Menlo, Monaco, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
 }
 a {
     color: #000;
@@ -37,5 +37,5 @@ h1 {
     top: 15px;
     left: 15px;
     font-size: 18px;
-    font-family: 'Lucida Console';
+    font-family: 'Menlo';
 }
