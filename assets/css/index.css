@@ -16,22 +16,22 @@ body {
   height: 100%;
 }
 
-h1 .one a {
+h2 .one a {
   text-decoration: none;
   color: #1ec503;
 }
 
-h1 .two a {
+h2 .two a {
   text-decoration: none;
   color: #1ec503;
 }
 
-h1 .one a:hover {
+h2 .one a:hover {
   text-decoration: underline;
   color:#1ec503;
 }
 
-h1 .two a:hover {
+h2 .two a:hover {
   text-decoration: underline;
   color:#1ec503;
 }
