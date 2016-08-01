@@ -1,15 +1,16 @@
 body {
     background: #000;
-    color: green;
+    color: #1ec503;
+    font-family: 'Share Tech Mono', monospace;
 }
 
 .app {
-  position: absolute
-  height: 100%
-  width: 100%
-  display: flex
-  flex-direction: column
-  align-items: center
-  justify-content: center
-  height: 100%
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
 }
