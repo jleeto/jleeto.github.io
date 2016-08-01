@@ -2,6 +2,7 @@ body {
     background: #000;
     color: #1ec503;
     font-family: 'Share Tech Mono', monospace;
+    Overflow: hidden;
 }
 
 .app {
