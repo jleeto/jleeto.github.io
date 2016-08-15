@@ -1,37 +1,3 @@
 body {
-    background: #000;
-    color: #1ec503;
-    font-family: 'Share Tech Mono', monospace;
-    Overflow: hidden;
-}
-
-.app {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
-}
-
-h2 .one a {
-  text-decoration: none;
-  color: #1ec503;
-}
-
-h2 .two a {
-  text-decoration: none;
-  color: #1ec503;
-}
-
-h2 .one a:hover {
-  text-decoration: underline;
-  color:#1ec503;
-}
-
-h2 .two a:hover {
-  text-decoration: underline;
-  color:#1ec503;
+    overflow: hidden;
 }
